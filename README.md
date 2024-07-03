@@ -2,7 +2,7 @@
 
 ## Description
 This project is a model designed to predict the color of cars in traffic, count the number of cars in the traffic signal, identify the gender distribution of people in the traffic signal, and predict the number of other vehicles apart from cars.
-![image](https://github.com/Apurv090405/Object-and-Gender-Count/assets/120238040/e06e197f-8c99-4ea2-9765-c83b90ef5bf5)
+![image](https://github.com/Swarni12/Car-Color-and-Count/blob/main/Output_Image.png)
 
 
 
@@ -45,7 +45,9 @@ This project is a model designed to predict the color of cars in traffic, count 
 4. View the real-time analysis of car colors, car count, gender distribution, and other vehicles count in the traffic signal.
 
 ## Google Drive
-https://drive.google.com/drive/folders/1x10UpPR0T1k0wY47YkeUCxUREeKQe4c1?usp=sharing
+https://drive.google.com/drive/folders/100gaT3kkvmVIjBtkyRZEPP5E1-xGfqDV?usp=sharing
+
+Some of the files were too large that's why I have attached google drive link.
 
 ## Author
-Apurv Chudasama
+Swarnima Sabharwal
